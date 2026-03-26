@@ -1,0 +1,1 @@
+print("rishabh",26,sep="->")
